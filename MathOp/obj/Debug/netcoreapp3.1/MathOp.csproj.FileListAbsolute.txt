@@ -1,0 +1,11 @@
+E:\Kavitha\MathOp\bin\Debug\netcoreapp3.1\MathOp.exe
+E:\Kavitha\MathOp\bin\Debug\netcoreapp3.1\MathOp.deps.json
+E:\Kavitha\MathOp\bin\Debug\netcoreapp3.1\MathOp.runtimeconfig.json
+E:\Kavitha\MathOp\bin\Debug\netcoreapp3.1\MathOp.runtimeconfig.dev.json
+E:\Kavitha\MathOp\bin\Debug\netcoreapp3.1\MathOp.dll
+E:\Kavitha\MathOp\bin\Debug\netcoreapp3.1\MathOp.pdb
+E:\Kavitha\MathOp\obj\Debug\netcoreapp3.1\MathOp.csprojAssemblyReference.cache
+E:\Kavitha\MathOp\obj\Debug\netcoreapp3.1\MathOp.AssemblyInfoInputs.cache
+E:\Kavitha\MathOp\obj\Debug\netcoreapp3.1\MathOp.AssemblyInfo.cs
+E:\Kavitha\MathOp\obj\Debug\netcoreapp3.1\MathOp.dll
+E:\Kavitha\MathOp\obj\Debug\netcoreapp3.1\MathOp.pdb
